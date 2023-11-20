@@ -14,7 +14,7 @@ More seriously, Echidna is a Haskell program designed for fuzzing/property-based
 * Source code integration to identify which lines are covered after the fuzzing campaign
 * Interactive terminal UI, text-only or JSON output
 * Automatic test case minimization for quick triage
-* Seamless integration into the development workflow
+* Seamless integration into the development workflow m
 * Maximum gas usage reporting of the fuzzing campaign
 * Support for a complex contract initialization with [Etheno](https://github.com/crytic/etheno) and Truffle
 
